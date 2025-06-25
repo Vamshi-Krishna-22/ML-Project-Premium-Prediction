@@ -81,7 +81,8 @@ This ML application predicts the annual insurance premium cost for individuals b
 - Hosted on **Streamlit Cloud**
 
 ## link for streamlit app
-[🔗 Click here to view the Streamlit App]([https://<your-streamlit-link>](https://vamshi-ml-project-premium-prediction.streamlit.app/))
+[🔗 Click here to view the Streamlit App](https://vamshi-ml-project-premium-prediction.streamlit.app/)
+
 
 
 
